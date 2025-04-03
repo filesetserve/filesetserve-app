@@ -1,2 +1,2 @@
-# File Set Serve App
-Deploy-ready starter.
+# FileSetServe Full App
+A full mock-up with login and dashboards.
